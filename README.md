@@ -1,6 +1,9 @@
 # KHDL-PythonForDS
  This is the final project of this course
 
+# Đặt câu câu hỏi cho tập dữ liệu Tai nạn Giao Thông
+https://docs.google.com/spreadsheets/d/1UG6YbiDmWzxuseNBtZs652whpZgNG6vaiT6ynEhZRBM/edit#gid=0
+
 # Installation
 1. Chọn folder muốn lưu
 2. Chuột phải vào ô trống, chọn "Open in Terminal", "Git GUI here" hoặc "Git Bash here"
