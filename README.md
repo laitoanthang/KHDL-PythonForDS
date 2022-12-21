@@ -1,5 +1,18 @@
 # KHDL-PythonForDS
- This is the final project of this course
+👉 <span style = 'color: #38E54D'> This is the final project of this course </span>
+
+<div style="text-align: left; background-color:#E9F7EF; font-family:Arial; color:#526085; padding: 12px; line-height:1.25;border-radius:1px; margin-bottom: 0em; text-align: center; font-size: 28px;border-style: solid;border-color: dark green;">Traffic Accidents in Singapore Analysis</div>
+
+# Thành viên 
+<!-- <center> -->
+| MSSV  | Họ tên |
+|:---:|:---:|
+| 20280083  | Lại Toàn Thắng  |
+| 20280011  | Hoàng Hải Đăng |
+| 20280105  | Đào Mình Trí  |
+| 20280016  | Nguyễn Tiến Đạt  | 
+
+<!-- </center> -->
 
 # Đặt câu câu hỏi cho tập dữ liệu Tai nạn Giao Thông
 https://docs.google.com/spreadsheets/d/1UG6YbiDmWzxuseNBtZs652whpZgNG6vaiT6ynEhZRBM/edit#gid=0
