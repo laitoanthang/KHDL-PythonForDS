@@ -15,7 +15,7 @@
 <!-- </center> -->
 
 # Đặt câu câu hỏi cho tập dữ liệu Tai nạn Giao Thông
-https://docs.google.com/spreadsheets/d/1UG6YbiDmWzxuseNBtZs652whpZgNG6vaiT6ynEhZRBM/edit#gid=0
+https://docs.google.com/spreadsheets/d/1UG6YbiDmWzxuseNBtZs652whpZgNG6vaiT6ynEhZRBM/edit?usp=sharing
 
 # Installation
 1. Chọn folder muốn lưu
