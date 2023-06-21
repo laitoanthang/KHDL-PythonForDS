@@ -5,15 +5,10 @@
 
 ![](img/1.png)
 
-# Thành viên 
 <!-- <center> -->
 | MSSV  | Họ tên |
 |:---:|:---:|
 | 20280083  | Lại Toàn Thắng  |
-| 20280011  | Hoàng Hải Đăng |
-| 20280105  | Đào Mình Trí  |
-| 20280016  | Nguyễn Tiến Đạt  | 
-
 <!-- </center> -->
 
 # Đặt câu câu hỏi cho tập dữ liệu Tai nạn Giao Thông
