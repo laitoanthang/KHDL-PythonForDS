@@ -1,21 +1,17 @@
 # KHDL-PythonForDS
-👉 <span style = 'color: #38E54D'> This is the final project of this course </span>
 
 <div style="text-align: left; background-color:#E9F7EF; font-family:Arial; color:#526085; padding: 12px; line-height:1.25;border-radius:1px; margin-bottom: 0em; text-align: center; font-size: 28px;border-style: solid;border-color: dark green;">Traffic Accidents in Canada Analysis</div>
 
 ![](img/1.png)
 
-<!-- <center> -->
+<!-- <center> 
 | MSSV  | Họ tên |
 |:---:|:---:|
 | 20280083  | Lại Toàn Thắng  |
-<!-- </center> -->
+</center> -->
 
 # Đặt câu câu hỏi cho tập dữ liệu Tai nạn Giao Thông
 https://docs.google.com/spreadsheets/d/1UG6YbiDmWzxuseNBtZs652whpZgNG6vaiT6ynEhZRBM/edit?usp=sharing
-
-# Link Notion làm việc nhóm
-https://www.notion.so/thangdumbest/N-CU-I-K-2dd34951d9fe4c269adf020471cd16c7
 
 # Installation
 1. Chọn folder muốn lưu
